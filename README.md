@@ -9,4 +9,5 @@
 ## 前言
 * 在打算参与 ARTS 挑战后，在网上看到了很多开发者发布的打卡帖子，感觉深受鼓舞 —— 原来开发界的同仁们都这么努力！我岂能屈居人后。遂特立此仓库，用于存放平时的 ARTS 记录。
 
-
+## 一些已知的 ARTS 参考
+* https://github.com/bigrotor187/Awesome-Java-Notes#ARTS
